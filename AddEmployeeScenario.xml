@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Firefox Suite">
+
+<test name="Add new employee Test"  preserve-order="true">
+<parameter name="browser" value="firefox" />
+<parameter name="env" value="prod" />
+ <classes>
+<class name="features.AddNewEmployeeScenario"/>
+</classes>
+</test>
+</suite>
+

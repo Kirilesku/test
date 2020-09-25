@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Firefox Suite]">
+  <test name="Add new employee Test(failed)">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="env" value="prod"/>
+    <classes>
+      <class name="features.AddNewEmployeeScenario">
+        <methods>
+          <include name="addnewemployee"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="setup"/>
+          <include name="setupEnv"/>
+        </methods>
+      </class> <!-- features.AddNewEmployeeScenario -->
+    </classes>
+  </test> <!-- Add new employee Test(failed) -->
+</suite> <!-- Failed suite [Firefox Suite] -->

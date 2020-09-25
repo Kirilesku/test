@@ -36,6 +36,6 @@ Browser could be changed in "AddEmployeeScenario.xml" file by changing 'browser'
 
 #### Reporting
 
-Reports for every run of AddEmployeeScenario.xml suite are stored in "reports" folder in root of the project. 
+Reports for every run of AddEmployeeScenario.xml suite are stored in "report" folder in root of the project. 
 
 

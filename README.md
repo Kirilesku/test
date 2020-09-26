@@ -12,7 +12,7 @@ This project is built on top of Selenium WebDriver API. Automated tests are writ
 
 There are a couple of  prerequisites that will be necessary in order to start using the project.
 
-* **Java** - This project was written using Java. Visit [the official Oracle page](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) in order to download the development kit.
+* **Java** - This project was written using Java Version 8. Visit [the official Oracle page](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) in order to download the development kit.
 * **Maven** - This project relies on Maven for package management and project building. Make sure that your IDE of choice supports Maven, that it is [downloaded](https://maven.apache.org/) and installed..
 
 
